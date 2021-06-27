@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+  .header{
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    img{
+      // background-image: url('../assets/img/myPoto1.jpg');
+      border-radius: 50%;
+      // width: 120px;
+      // height: 120px;
+    }
+  }
+}
